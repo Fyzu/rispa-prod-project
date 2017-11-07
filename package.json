@@ -18,7 +18,7 @@
     "@rispa/babel": "4.1.3",
     "@rispa/client": "4.1.3",
     "@rispa/server": "4.1.3",
-    "@rispa/webpack": "4.1.3",
-    "@rispa/render-server": "4.1.4"
+    "@rispa/webpack": "4.1.4",
+    "@rispa/render-server": "4.1.7"
   }
 }
